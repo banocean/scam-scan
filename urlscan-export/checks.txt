@@ -1,0 +1,6 @@
+filename:"app-6256b172.js"
+filename:"api.js" AND filename:"sv.png" AND filename:"utils.js" AND filename:"validator.js"
+page.title:"Zaktualizowana" AND page.title:"Oficjalna" AND page.title:"2024"
+filename:"index-ec711438.css"
+filename:"app-1858208c.js"
+filename:"zh-TW.png" AND filename:"form.js" AND page.server:"cloudflare"
